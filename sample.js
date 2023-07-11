@@ -1,0 +1,1 @@
+console.log("First task in Node JS")
